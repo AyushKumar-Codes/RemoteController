@@ -19,7 +19,7 @@ The **WirelessControl App** is an Android application that allows users to remot
 ---
 
 ## Screenshots 📸
-<img src="https://github.com/user-attachments/assets/dab60f07-e88a-4f8c-a9b3-1660fdbfd765" alt="Wireless Control Screenshot" style="width: 600px; height: auto;">
+<img src="https://github.com/user-attachments/assets/dab60f07-e88a-4f8c-a9b3-1660fdbfd765" alt="Wireless Control Screenshot" style="width: 600px; height: 800px;">
 
 
 ---
