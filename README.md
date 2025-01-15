@@ -108,7 +108,7 @@ This project is licensed under the [MIT License](LICENSE).
 If you have any questions or suggestions, feel free to reach out:
 
 - **GitHub**: [AyushKumar-Codes](https://github.com/AyushKumar-Codes)
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
+- **Email**: [kumarayush2470@outlook.com](mailto:your-kumarayush2470@outlook.com)
 
 ---
 
