@@ -117,5 +117,4 @@ If you have any questions or suggestions, feel free to reach out:
 
 Developed with ❤️ by Ayush Kumar
 
-Citations:
-[1] https://github.com/user-attachments/assets/ecf518cb-7ec4-4472-8a4f-e54cea3cf72f
+
