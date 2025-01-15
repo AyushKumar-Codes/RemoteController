@@ -1,5 +1,5 @@
 # WirelessControl App 🔌
-![mouse-keyboard-shortcut-svgrepo-com](https://github.com/user-attachments/assets/ecf518cb-7ec4-4472-8a4f-e54cea3cf72f)
+<img src="https://github.com/user-attachments/assets/ecf518cb-7ec4-4472-8a4f-e54cea3cf72f" alt="Mouse Keyboard Shortcut Icon" style="width: 200px; height: 200px;">
 
 
 The **WirelessControl App** is an Android application that allows users to remotely control devices over a network connection. The app features a touchpad, keyboard input, and buttons to send predefined commands such as "Enter" and "Backspace." It connects to a server via IP and port, making it a versatile tool for wireless control of compatible devices.
@@ -19,7 +19,8 @@ The **WirelessControl App** is an Android application that allows users to remot
 ---
 
 ## Screenshots 📸
-![Screenshot_20250116-003103_wirelesscontroll](https://github.com/user-attachments/assets/dab60f07-e88a-4f8c-a9b3-1660fdbfd765)
+<img src="https://github.com/user-attachments/assets/dab60f07-e88a-4f8c-a9b3-1660fdbfd765" alt="Wireless Control Screenshot" style="width: 600px; height: auto;">
+
 
 ---
 
