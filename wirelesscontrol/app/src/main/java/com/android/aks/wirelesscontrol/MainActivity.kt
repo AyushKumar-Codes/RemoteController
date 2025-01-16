@@ -57,32 +57,32 @@ class MainActivity : AppCompatActivity() {
         }
 
 
-//        touchpad.setOnTouchListener { _, event ->
-//            if (isConnected) {
-//                when (event.action) {
-//                    MotionEvent.ACTION_DOWN -> {
-//                        lastX = event.x
-//                        lastY = event.y
-//                    }
-//                    MotionEvent.ACTION_MOVE -> {
-//                        val dx = event.x - lastX
-//                        val dy = event.y - lastY
-//                        lastX = event.x
-//                        lastY = event.y
-//                        thread {
-//                            try {
-//                                outputStream?.write("MOVE|$dx|$dy\n".toByteArray())
-//                            } catch (e: Exception) {
-//                                runOnUiThread {
-//                                    Toast.makeText(this, "Connection lost", Toast.LENGTH_SHORT).show()
-//                                }
-//                            }
-//                        }
-//                    }
-//                }
-//            }
-//            true
-//        }
+        touchpad.setOnTouchListener { _, event ->
+            if (isConnected) {
+                when (event.action) {
+                    MotionEvent.ACTION_DOWN -> {
+                        lastX = event.x
+                        lastY = event.y
+                    }
+                    MotionEvent.ACTION_MOVE -> {
+                        val dx = event.x - lastX
+                        val dy = event.y - lastY
+                        lastX = event.x
+                        lastY = event.y
+                        thread {
+                            try {
+                                outputStream?.write("MOVE|$dx|$dy\n".toByteArray())
+                            } catch (e: Exception) {
+                                runOnUiThread {
+                                    Toast.makeText(this, "Connection lost", Toast.LENGTH_SHORT).show()
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+            true
+        }
 
 
 
