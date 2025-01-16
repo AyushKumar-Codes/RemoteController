@@ -1,6 +1,6 @@
 # WirelessControl App 🔌  
 
-Mouse Keyboard Shortcut Icon  
+<img src="https://github.com/user-attachments/assets/ecf518cb-7ec4-4472-8a4f-e54cea3cf72f" alt="Mouse Keyboard Shortcut Icon" style="width: 200px; height: 200px;">
 
 The **WirelessControl App** is an Android application designed for remote control of devices over a network connection. It includes features like a touchpad, keyboard input, and buttons for sending predefined commands such as "Enter" and "Backspace." By connecting to a server via IP address and port, it serves as a versatile tool for wireless control of compatible devices.  
 
@@ -16,7 +16,7 @@ The **WirelessControl App** is an Android application designed for remote contro
 
 ## Screenshots 📸  
 
-Wireless Control Screenshot  
+<img src="https://github.com/user-attachments/assets/dab60f07-e88a-4f8c-a9b3-1660fdbfd765" alt="Wireless Control Screenshot" style="width: auto; height: 800px;">
 
 ## How It Works 🔧  
 
