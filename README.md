@@ -115,6 +115,6 @@ If you have any questions or suggestions, feel free to reach out:
 - **GitHub**: AyushKumar-Codes
 - **Email**: kumarayush2470@outlook.com
 
-Developed with ❤️ by Ayush Kumar
+Developed by Ayush Kumar
 
 
