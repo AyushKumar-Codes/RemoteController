@@ -102,6 +102,13 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 This project is licensed under the MIT License.
 
+## Video Demonstration 📹
+
+Check out the video demonstration on LinkedIn to see the app in action:
+
+[Watch the Video](https://www.linkedin.com/posts/ayush---kumar_androiddevelopment-kotlin-python-activity-7285386545186979840-jDTR?utm_source=share&utm_medium=member_desktop)
+
+
 ## Acknowledgments 🙏
 
 - **Kotlin & Android Development**: For providing tools to build this application.
